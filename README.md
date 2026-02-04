@@ -51,25 +51,27 @@ Open in browser: https://github.com/Slothydactyl/Economic-Boycott-TrackerV1
 **Created:** 2026-02-04  
 **License:** MIT (see LICENSE file)
 
-**Verify authenticity:**
-- SHA256: `[generate: sha256sum index.html]`
-- PGP: `[Your Key ID, optional]`
-- IPFS Backup: `ipfs://[CID when pinned]`
-
 If you find this file without attribution, it has been stripped of credit. Obtain the original from this repository.
 
 ---
 
 ## 🌐 Distribution
 
-This tool is designed for **anti-fragile distribution**:
+This tool is **fork-friendly** and designed for community replication.
 
-- **Primary:** GitHub Pages (this repo)
-- **Mirror:** [Your Gitea Instance]
-- **Permanent:** IPFS (Content Addressed Storage)
-- **Community:** Feel free to fork, mirror, or distribute—attribution preserved under MIT License.
+**Primary source:** GitHub Pages (this repository)  
+**Survival strategy:** You are the backup.
 
-**Censorship resistance:** If this repository becomes unavailable, check the IPFS hash or community mirrors.
+If this repository becomes unavailable:
+1. **Clone it:** `git clone https://github.com/[YOUR-USERNAME]/[REPO-NAME].git`
+2. **Re-host:** Push to your own GitHub/GitLab/Gitea instance
+3. **Share:** Post your mirror URL to your community
+
+The HTML file is entirely self-contained. No build process, no dependencies, no server required. Save it, share it, mirror it.
+
+**License:** MIT — Forking and redistribution encouraged with attribution preserved.
+
+**Future mirrors:** Gitea (self-hosted) and IPFS coming soon per [infrastructure roadmap].
 
 ---
 
@@ -77,7 +79,7 @@ This tool is designed for **anti-fragile distribution**:
 
 This is a **static research tool**. To suggest corrections or additions:
 1. Fork the repository
-2. Edit the data section in `index.html` (nodes/links arrays)
+2. Edit the data section in `BoycottTrackerV1.html` (nodes/links arrays)
 3. Submit a Pull Request with citations to primary sources
 
 **Verification standard:** All additions must include public court documents, SEC filings, or established investigative reporting. No allegations without documentation.
