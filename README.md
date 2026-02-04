@@ -24,10 +24,10 @@ This repository contains an interactive visualization of **publicly available in
 No installation. No tracking. No server required.
 
 ### Option 1: Live (Online)
-Open in browser: `https://[your-username].github.io/epstein-tracker/`
+Open in browser: https://github.com/Slothydactyl/Economic-Boycott-TrackerV1
 
 ### Option 2: Offline (Recommended)
-1. Download `index.html` (or clone this repo)
+1. Download `BoycottTrackerV1.html` (or clone this repo)
 2. Double-click to open in Firefox/Chrome
 3. Works entirely offline—no internet connection required after download
 
