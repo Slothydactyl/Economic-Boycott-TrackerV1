@@ -24,7 +24,7 @@ This repository contains an interactive visualization of **publicly available in
 No installation. No tracking. No server required.
 
 ### Option 1: Live (Online)
-Open in browser: [https://github.com/Slothydactyl/Economic-Boycott-TrackerV1](https://slothydactyl.github.io/Economic-Boycott-TrackerV1/)
+Open in browser: [https://slothydactyl.github.io/Economic-Boycott-TrackerV1/](https://slothydactyl.github.io/Economic-Boycott-TrackerV1/)
 
 ### Option 2: Offline (Recommended)
 1. Download `BoycottTrackerV1.html` (or clone this repo)
